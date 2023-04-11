@@ -1,0 +1,7 @@
+label: dos
+label-id: 0x12345678
+device: sda
+unit: sectors
+
+sda1 : start=        2048, size=       63489, type=c
+sda2 : start=       67584, size=      342016, type=83
